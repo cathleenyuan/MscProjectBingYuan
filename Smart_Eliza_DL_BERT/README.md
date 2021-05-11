@@ -1,4 +1,4 @@
-# Smart-Eliza chatbot in Python using goemotion and Bert model
+# Smart-Eliza chatbot in Python using GoEmotion and Bert model
 
 
 - To generate New BERT model using GoEmotions dataset,
